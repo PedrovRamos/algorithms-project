@@ -1,10 +1,3 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>algorithms-project 🧑🏼‍💻</h1>
+</br>
+Nesse projeto, trabalhei na resolução de problemas e otimização de algoritmos, utilizando a linguagem Python o que me proporcionou um treinamento valioso. Exercitei habilidades como lógica e interpretação de problemas, além de melhorar minha capacidade de resolver problemas. Aprendi a interpretar problemas complexos, encontrar soluções eficientes e otimizar a resolução dos desafios utilizando metódos de resulução como funções iterativas e recursivas. Desenvolvi uma mentalidade analítica, aprimorei minha habilidade de resolução de problemas e adquiri confiança na implementação de soluções eficientes.
