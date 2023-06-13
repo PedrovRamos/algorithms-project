@@ -1,3 +1,3 @@
-<h1>algorithms-project 🧑🏼‍💻</h1>
+<h1>Algorithms Project 🧑🏼‍💻</h1>
 </br>
 Nesse projeto, trabalhei na resolução de problemas e otimização de algoritmos, utilizando a linguagem Python o que me proporcionou um treinamento valioso. Exercitei habilidades como lógica e interpretação de problemas, além de melhorar minha capacidade de resolver problemas. Aprendi a interpretar problemas complexos, encontrar soluções eficientes e otimizar a resolução dos desafios utilizando metódos de resulução como funções iterativas e recursivas. Desenvolvi uma mentalidade analítica, aprimorei minha habilidade de resolução de problemas e adquiri confiança na implementação de soluções eficientes.
